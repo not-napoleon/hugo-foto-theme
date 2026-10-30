@@ -153,7 +153,7 @@ div.image-large {
 }
 div.image-large {
     margin: 0 auto;
-    max-width: 1500px;
+    max-width: 768px;
     text-align: center;
 }
 
